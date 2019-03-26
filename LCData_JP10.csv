@@ -1,0 +1,10 @@
+ID,メンバーID,ローン額,ローン目的タイプ,ローン目的,肩書,勤続年数,家所有,年収入,郵便番号,住所（州）,ローン対収入,グレード,サブグレード,滞納（過去二年）,クレジットライン開始,照会数（過去6ヶ月）,直近の滞納からの月数,採集記録からの月数,開いているアカウント数,悪評記録数,リボ払い残高,リボ枠活用率,過去の全アカウント数,ローンリストステータス初期値,徴収数（過去12ヶ月）,前回の悪評価からの月数,申し込みタイプ,現行滞納アカウント数,徴収総額,全口座残高,貸し倒れ
+3296446,4068857,11200,credit_card,Credit Card,Nokia Siemens Network,10.0,OWN,108000,750xx,TX,12.52,A,A2,0,Oct-02,0,,,9,0,37822,0.662,21,f,0,,INDIVIDUAL,0,0,187717,
+3286412,4058853,10000,credit_card,my lending club Loan,creative financial group,2.0,MORTGAGE,65000,085xx,NJ,9.58,B,B2,0,Mar-00,0,,,9,0,16623,0.742,11,f,0,,INDIVIDUAL,0,0,16623,
+3286406,4058848,8000,debt_consolidation,All in One,Techtron Systems,7.0,RENT,35000,440xx,OH,27.84,C,C4,0,Oct-88,2,,,12,0,17938,0.72,17,w,0,,INDIVIDUAL,0,0,17938,
+3296434,4068843,16000,debt_consolidation,Debt consolidation,Bristol Hospital,10.0,MORTGAGE,110000,060xx,CT,28.87,A,A4,0,Jan-00,0,,,21,0,23691,0.752,56,f,0,,INDIVIDUAL,0,0,372771,
+3286395,4058836,4000,credit_card,Credit Refi,Aspen Skiing Company,10.0,MORTGAGE,155000,816xx,CO,17.87,A,A4,0,Oct-88,0,,,7,0,43945,0.955,21,w,0,,INDIVIDUAL,0,0,331205,
+3239835,3982635,15000,credit_card,Credit card refinancing,Agua Caliente Casino Resort Spa,10.0,MORTGAGE,65000,922xx,CA,17.32,B,B4,0,Jul-92,2,67.0,,9,0,18455,0.6809999999999999,19,f,0,67.0,INDIVIDUAL,0,52,23631,
+3286385,4058824,8000,debt_consolidation,Just Consolidate,Gap Inc.,10.0,RENT,85000,945xx,CA,20.91,B,B1,1,Jun-94,0,19.0,,7,0,14746,0.476,30,f,0,19.0,INDIVIDUAL,0,0,59740,
+3286235,4058626,19800,debt_consolidation,Debt Consolidation,US Air Force,10.0,MORTGAGE,75459,236xx,VA,29.31,E,E1,0,Jun-89,1,,,18,0,15946,0.767,26,f,0,,INDIVIDUAL,0,0,333618,
+3254624,4026789,4000,credit_card,traveltime,,,RENT,22000,757xx,TX,23.29,D,D1,0,Mar-02,0,,,9,0,12042,0.873,14,f,0,,INDIVIDUAL,0,90,12042,
